@@ -15,3 +15,4 @@ print(info)
 with open('os_info.txt', 'w') as ff:
     ff.write(info)
 
+
